@@ -3,11 +3,11 @@ owner: stehled # Your GitHub organization or username, where this repository liv
 repo: cr-upptime # The name of this repository
 
 sites:
-  - name: Cookierow Web
+  - name: Website
     url: https://www.cookierow.com
-  - name: Cookierow API endpoint
+  - name: API endpoint
     url: $CR_CR
-  - name: Cookierow Policy
+  - name: Policy module
     url: $CR_POLICY
 
 status-website:
@@ -15,10 +15,10 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.cookierow.com
   # baseUrl: /your-repo-name
-  logoUrl: https://www.cookierow.com/assets/img/logo-cr.webp
-  #name: Cookierow
+  logoUrl: https://www.cookierow.com/assets/img/logo-cr-r.png
+  name: Cookierow
   introTitle: "**Cookierow** status page."
-  introMessage: See information about the uptime of our service. Contact us in case of outage.
+  introMessage: See information about the uptime of our service. Contact us in case of outage [info@cookierow.com](mailto:info@cookierow.com).
   navbar:
     - title: Status
       href: /
@@ -29,7 +29,11 @@ assignees:
   - stehled
   
 i18n:
-  footer: Status page for [Cookierow](https://www.cookierow.com).
+  footer: "Status page for [Cookierow](https://www.cookierow.com). Contact us [info@cookierow.com](mailto:info@cookierow.com)"
+  
+NOTIFICATION_DISCORD: true
+NOTIFICATION_DISCORD_WEBHOOK: true
+NOTIFICATION_DISCORD_WEBHOOK_URL: $DISCORD_WEBHOOK
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
