@@ -30,10 +30,6 @@ assignees:
   
 i18n:
   footer: "Status page for [Cookierow](https://www.cookierow.com). Contact us [info@cookierow.com](mailto:info@cookierow.com)"
-  
-NOTIFICATION_DISCORD: true
-NOTIFICATION_DISCORD_WEBHOOK: true
-NOTIFICATION_DISCORD_WEBHOOK_URL: $DISCORD_WEBHOOK
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
