@@ -11,7 +11,6 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.cookierow.com
   # baseUrl: /your-repo-name
-  theme: ocean
   logoUrl: https://www.cookierow.com/assets/img/logo-cr.webp
   name: Cookierow
   introTitle: "**Cookierow** status page."
@@ -23,6 +22,9 @@ status-website:
       href: https://www.cookierow.com
 assignees:
   - stehled
+  
+i18n:
+  footer: Status page for [Cookierow](https://www.cookierow.com).
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
