@@ -9,6 +9,8 @@ sites:
     url: $CR_CR
   - name: Policy module
     url: $CR_POLICY
+  - name: test
+    url: https://lidice21.cz/News/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
