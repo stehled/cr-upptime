@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1010,
-    "timeDay": 824,
-    "timeWeek": 842,
-    "timeMonth": 917,
-    "timeYear": 1006,
+    "timeDay": 674,
+    "timeWeek": 846,
+    "timeMonth": 913,
+    "timeYear": 1005,
     "dailyMinutesDown": {
       "2023-03-27": 16
     }
@@ -26,18 +26,16 @@
     "slug": "api-endpoint",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 706,
-    "timeDay": 701,
-    "timeWeek": 629,
-    "timeMonth": 637,
-    "timeYear": 714,
-    "dailyMinutesDown": {
-      "2023-10-25": 5
-    }
+    "time": 705,
+    "timeDay": 656,
+    "timeWeek": 624,
+    "timeMonth": 636,
+    "timeYear": 713,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Policy module",
@@ -51,10 +49,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 758,
-    "timeDay": 605,
-    "timeWeek": 603,
+    "timeDay": 553,
+    "timeWeek": 611,
     "timeMonth": 664,
-    "timeYear": 683,
+    "timeYear": 682,
     "dailyMinutesDown": {
       "2023-01-25": 19
     }
