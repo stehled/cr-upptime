@@ -4,11 +4,11 @@
     "url": "https://www.cookierow.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.cookierow.com.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 998,
     "timeDay": 2742,
@@ -16,7 +16,7 @@
     "timeMonth": 978,
     "timeYear": 972,
     "dailyMinutesDown": {
-      "2024-02-12": 9,
+      "2024-02-12": 3,
       "2023-03-27": 16
     }
   },
@@ -25,10 +25,10 @@
     "url": "$CR_CR",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-endpoint",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 701,
@@ -36,24 +36,28 @@
     "timeWeek": 612,
     "timeMonth": 598,
     "timeYear": 702,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-12": 2
+    }
   },
   {
     "name": "Policy module",
     "url": "$CR_POLICY",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "policy-module",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 679,
+    "time": 678,
     "timeDay": 585,
     "timeWeek": 610,
     "timeMonth": 607,
     "timeYear": 676,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-12": 0
+    }
   }
 ]
