@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 940,
-    "timeDay": 690,
-    "timeWeek": 899,
-    "timeMonth": 941,
-    "timeYear": 942,
+    "timeDay": 945,
+    "timeWeek": 909,
+    "timeMonth": 945,
+    "timeYear": 941,
     "dailyMinutesDown": {
       "2024-02-12": 32
     }
@@ -26,17 +26,16 @@
     "slug": "api-endpoint",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 687,
-    "timeDay": 589,
-    "timeWeek": 771,
-    "timeMonth": 701,
+    "timeDay": 580,
+    "timeWeek": 782,
+    "timeMonth": 704,
     "timeYear": 701,
     "dailyMinutesDown": {
-      "2024-08-26": 6,
       "2024-02-12": 31
     }
   },
@@ -47,17 +46,16 @@
     "slug": "policy-module",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 652,
-    "timeDay": 611,
-    "timeWeek": 681,
+    "timeDay": 633,
+    "timeWeek": 685,
     "timeMonth": 665,
     "timeYear": 652,
     "dailyMinutesDown": {
-      "2024-08-26": 6,
       "2024-02-12": 29
     }
   }
