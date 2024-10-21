@@ -1,7 +1,7 @@
 url: $CR_CR
-status: up
-code: 200
-responseTime: 1026
-lastUpdated: 2024-10-20T23:10:04.833Z
+status: down
+code: 502
+responseTime: 804
+lastUpdated: 2024-10-21T06:25:55.350Z
 startTime: 2022-09-03T11:18:31.000Z
 generator: Upptime <https://github.com/upptime/upptime>
