@@ -6,15 +6,15 @@
     "slug": "website",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.73%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 987,
-    "timeDay": 883,
-    "timeWeek": 843,
-    "timeMonth": 1087,
-    "timeYear": 1003,
+    "time": 988,
+    "timeDay": 1300,
+    "timeWeek": 885,
+    "timeMonth": 1099,
+    "timeYear": 1004,
     "dailyMinutesDown": {
       "2024-10-19": 18,
       "2024-02-12": 32
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 689,
-    "timeDay": 581,
-    "timeWeek": 597,
-    "timeMonth": 646,
-    "timeYear": 703,
+    "time": 690,
+    "timeDay": 1026,
+    "timeWeek": 622,
+    "timeMonth": 663,
+    "timeYear": 704,
     "dailyMinutesDown": {
       "2024-02-12": 31
     }
@@ -52,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 666,
-    "timeDay": 698,
-    "timeWeek": 701,
-    "timeMonth": 698,
+    "timeDay": 873,
+    "timeWeek": 693,
+    "timeMonth": 711,
     "timeYear": 669,
     "dailyMinutesDown": {
       "2024-02-12": 29
