@@ -6,15 +6,15 @@
     "slug": "website",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "98.67%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.59%",
     "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
+    "uptimeYear": "99.87%",
     "time": 1108,
-    "timeDay": 919,
-    "timeWeek": 2137,
-    "timeMonth": 1405,
-    "timeYear": 1138,
+    "timeDay": 806,
+    "timeWeek": 2104,
+    "timeMonth": 1370,
+    "timeYear": 1132,
     "dailyMinutesDown": {
       "2025-10-20": 19,
       "2025-10-18": 22,
@@ -29,8 +29,7 @@
       "2025-03-25": 22,
       "2025-03-24": 16,
       "2025-02-01": 73,
-      "2024-12-07": 23,
-      "2024-10-22": 19
+      "2024-12-07": 23
     }
   },
   {
@@ -40,14 +39,14 @@
     "slug": "api-endpoint",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "98.69%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.60%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.89%",
     "time": 782,
-    "timeDay": 569,
-    "timeWeek": 1786,
-    "timeMonth": 996,
+    "timeDay": 485,
+    "timeWeek": 1753,
+    "timeMonth": 990,
     "timeYear": 802,
     "dailyMinutesDown": {
       "2025-10-20": 19,
@@ -60,8 +59,7 @@
       "2025-03-30": 17,
       "2025-03-25": 21,
       "2025-02-01": 19,
-      "2024-12-07": 21,
-      "2024-10-22": 19
+      "2024-12-07": 21
     }
   },
   {
@@ -71,15 +69,15 @@
     "slug": "policy-module",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "98.72%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.61%",
     "uptimeMonth": "99.91%",
-    "uptimeYear": "99.89%",
+    "uptimeYear": "99.90%",
     "time": 764,
-    "timeDay": 1002,
-    "timeWeek": 2548,
-    "timeMonth": 1306,
-    "timeYear": 801,
+    "timeDay": 517,
+    "timeWeek": 2522,
+    "timeMonth": 1302,
+    "timeYear": 800,
     "dailyMinutesDown": {
       "2025-10-20": 18,
       "2025-10-18": 21,
@@ -90,8 +88,7 @@
       "2025-06-05": 22,
       "2025-03-30": 16,
       "2025-03-25": 21,
-      "2024-12-07": 20,
-      "2024-10-22": 19
+      "2024-12-07": 20
     }
   }
 ]
