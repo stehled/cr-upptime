@@ -1,7 +1,7 @@
 url: $CR_POLICY
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-01-18T03:55:50.719Z
+status: up
+code: 200
+responseTime: 541
+lastUpdated: 2026-01-18T04:35:18.454Z
 startTime: 2022-09-03T11:18:34.000Z
 generator: Upptime <https://github.com/upptime/upptime>
